@@ -46,3 +46,8 @@ You can check these and other small projects on my repositories below ⬇️
 
 ### ⚡ Fun fact
 I love automating repetitive tasks — if something can be done twice, it can be scripted once!
+
+![Batuhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=batuhantorun&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batuhantorun&layout=compact&theme=tokyonight)
+
+Thanks for visiting my profile 👋
